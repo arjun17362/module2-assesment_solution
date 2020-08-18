@@ -1,0 +1,241 @@
+#nn{
+	text-align: center;
+	margin-bottom: 5%;
+}
+
+
+
+
+@media (max-width:1295px) , (min-width: 992px){
+.no_1{
+	border: 1px solid black;
+	padding: 2%;
+	position: relative;
+	float: right;
+	width: 20%;
+	margin-top: 1%;
+	height: 15px;
+	background-color: #FFB6C1; 
+
+}
+.no_2{
+	border :2px solid grey;
+	padding: 2%;
+	margin-left: 40px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	width: 25%;
+	background-color: grey; 
+	height: 150px;
+	float: left;
+	box-sizing: content-box;
+	
+}
+
+.no_3{
+	border: 1px solid black;
+	padding: 2%;
+	position: relative;
+	float: right;
+	width: 20%;
+	margin-top: 1%;
+	height: 15px;
+	background-color: red; 
+}
+.no_4{
+	border :2px solid grey;
+	padding: 2%;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	width: 25%;
+	background-color: grey; 
+	height: 150px;
+	float: left;
+	box-sizing: content-box;
+	
+}
+
+.no_5{
+	border: 1px solid black;
+	padding: 2%;
+	position: relative;
+	float: right;
+	width: 20%;
+	margin-top: 1%;
+	margin-left: 1%;
+	height: 15px;
+	background-color:yellow; 
+}
+.no_6{
+	border :2px solid grey;
+	padding: 2%;
+	margin-left: 25px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	width: 25%;
+	background-color: grey; 
+	height: 150px;
+	float: left;
+	box-sizing: content-box;
+	
+}
+
+}
+
+
+
+@media(min-width: 780px) and (max-width:991px){
+.no_1{
+	border: 1px solid black;
+	padding: 2%;
+	position: relative;
+	float: right;
+	width: 25%;
+	margin-top: 1%;
+	height: 15px;
+	background-color: #FFB6C1; 
+
+}
+.no_2{
+	border :2px solid grey;
+	padding: 2%;
+	margin-left: 40px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	width: 25%;
+	background-color: grey; 
+	height: 205px;
+	float: left;
+	
+}
+
+.no_3{
+	border: 1px solid black;
+	padding: 2%;
+	position: relative;
+	float: right;
+	width: 25%;
+	margin-top: 1%;
+	margin-left: 1%;
+	height: 15px;
+	background-color: red; 
+}
+.no_4{
+	border :2px solid grey;
+	padding: 2%;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	width: 25%;
+	background-color: grey; 
+	height: 205px;
+	float: left;
+	
+}
+
+.no_5{
+	border: 1px solid black;
+	padding: 1.5%;
+	position: relative;
+	float: right;
+	width: 12%;
+	height: 10px;
+	background-color:yellow; 
+}
+.no_6{
+	border :2px solid grey;
+	padding: 2%;
+	margin-left: 25px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	width: 90%;
+	background-color: grey; 
+	height: 100px;
+	float: left;
+	
+}
+}
+
+
+@media (max-width:780px) and (min-width: 440px){
+.no_1{
+	border: 1px solid black;
+	padding: 2%;
+	position: relative;
+	float: right;
+	width: 25%;
+	margin-top: 1%;
+	margin-left: 1%;
+	height: 15px;
+	background-color: #FFB6C1; 
+
+}
+.no_2{
+	border :2px solid grey;
+	padding: 5%;
+	margin-left: 40px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	width: 50%;
+	background-color: grey; 
+	height: 163px;
+	float: left;
+	
+}
+
+.no_3{
+	border: 1px solid black;
+	padding: 2%;
+	position: relative;
+	float: right;
+	width: 25%;
+	margin-top: 1%;
+	margin-left: 1%;
+	height: 15px;
+	background-color: red; 
+}
+.no_4{
+	border :2px solid grey;
+	padding: 5%;
+	margin-left: 40px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	width: 50%;
+	background-color: grey; 
+	height: 150px;
+	float: left;
+	
+}
+
+.no_5{
+	border: 1px solid black;
+	padding: 2%;
+	position: relative;
+	float: right;
+	width: 25%;
+	height: 15px;
+	margin-left: 1%;
+	margin-top: 1%;
+	background-color:yellow; 
+}
+.no_6{
+	border :2px solid grey;
+	padding: 5%;
+	margin-left: 40px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	width: 50%;
+	background-color: grey; 
+	height: 138px;
+	float: left;
+	
+}
+   
+}
+
+
+
+
+
+
